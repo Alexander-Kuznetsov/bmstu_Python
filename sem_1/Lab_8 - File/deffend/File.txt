@@ -1,0 +1,11 @@
+HP 3.1 1าม
+Asus 3.3 1.5าม
+Lenovo 2.2 500รแ
+Samsung 1.7 320รแ
+Apple 2.4 320รแ
+HP 2.6 500รแ
+Acer 2.5 1าม
+Lenovo 3.3 2าม
+Asus 1.4 180รม
+Samsung 2.2 440รม
+
